@@ -9,6 +9,7 @@ import android.text.SpannableStringBuilder;
 import android.text.style.ForegroundColorSpan;
 
 import static java.lang.Math.round;
+import java.awt.Color;
 
 /**
  * Created by Bachors on 10/31/2017.
